@@ -1,28 +1,22 @@
-# Hi 👋, I'm Disha Patel
+# 🚀 Turning ideas into scalable software
 
-💻 Software Engineer passionate about building scalable backend systems, cloud-native applications, and AI-powered solutions.
+Hey, I'm Disha Patel — a Software Engineer building backend systems, cloud-native applications, and AI-powered solutions focused on performance, reliability, and impact.
 
-🚀 I enjoy designing distributed systems, developing APIs, and creating reliable software using modern technologies.
+💻 **Focus Areas**
+- Backend Development & Microservices
+- Distributed Systems & Scalable APIs
+- Cloud-Native Applications
+- AI-Powered Solutions
 
-### 🛠️ Tech Stack
+🛠️ **Tech Stack**
+☁️ AWS • Kubernetes • Docker • Terraform  
+⚙️ Java • Spring Boot • Python • FastAPI • Node.js  
+🤖 OpenAI • LangChain • RAG • LLM Applications  
+🗄️ PostgreSQL • MongoDB • Redis • Kafka  
 
-☁️ Cloud & DevOps  
-AWS • Kubernetes • Docker • Terraform • CI/CD
+🌱 Exploring system design, cloud architecture, and intelligent software solutions.
 
-💻 Backend Development  
-Java • Spring Boot • Python • FastAPI • Node.js
-
-🤖 AI Engineering  
-LangChain • OpenAI • RAG • LLM Applications
-
-🗄️ Databases & Messaging  
-PostgreSQL • MongoDB • Redis • Kafka
-
-### 🌱 Currently Exploring
-
-- Building scalable microservices and event-driven architectures
-- Exploring AI-powered applications and intelligent systems
-- Improving system design and cloud engineering skills
+✨ Always building. Always learning. Always improving. 
 
 ### 🤝 Let's Connect
 
