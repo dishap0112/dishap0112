@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋, I'm Disha Patel
 
-<!--
-**dishap0112/dishap0112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineer passionate about building scalable backend systems, cloud-native applications, and AI-powered solutions.
 
-Here are some ideas to get you started:
+🚀 I enjoy designing distributed systems, developing APIs, and creating reliable software using modern technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+☁️ Cloud & DevOps  
+AWS • Kubernetes • Docker • Terraform • CI/CD
+
+💻 Backend Development  
+Java • Spring Boot • Python • FastAPI • Node.js
+
+🤖 AI Engineering  
+LangChain • OpenAI • RAG • LLM Applications
+
+🗄️ Databases & Messaging  
+PostgreSQL • MongoDB • Redis • Kafka
+
+### 🌱 Currently Exploring
+
+- Building scalable microservices and event-driven architectures
+- Exploring AI-powered applications and intelligent systems
+- Improving system design and cloud engineering skills
+
+### 🤝 Let's Connect
+
+💼 LinkedIn: https://www.linkedin.com/in/disha-bharatbhai-patel-290b5a326?utm_source=share_via&utm_content=profile&utm_medium=member_ios   
+📫 Email: dishap0112@gmail.com
+
+✨ Clean Code • Scalable Systems • Continuous Learning
