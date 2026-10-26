@@ -22,7 +22,7 @@ I enjoy working across the entire application lifecycle — from designing APIs 
 - Used PostgreSQL for data management and Docker for containerization.
 - Deployed on AWS EC2 with Nginx and a GitHub Actions CI pipeline.
 
-### Relivox — Medical Voice Memo & Patient Record System
+### Relivox Medical Voice Memo & Patient Record Mobile Application
 - Developed a web application for patient records and clinical documentation.
 - Implemented role-based workflows for doctors and administrators.
 - Designed a normalized MySQL database with audit logging and access controls.
