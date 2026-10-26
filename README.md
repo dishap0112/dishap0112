@@ -1,4 +1,4 @@
-# Hi, I'm Disha Patel 👋
+#Disha Patel
 
 ### Full Stack Developer | Backend Engineering | Cloud Applications
 
