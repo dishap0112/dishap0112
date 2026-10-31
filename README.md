@@ -1,229 +1,227 @@
- 
-<!--
-  GitHub Profile README
-  Repository: https://github.com/dishap0112/dishap0112
-  Replace the contents of README.md with this file.
--->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A33,50:123B70,100:2563EB&height=220&section=header&text=Disha%20Patel&fontSize=55&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Backend%20Engineering&descAlignY=58&descSize=17" width="100%" />
-
-<a href="https://github.com/dishap0112">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=650&lines=Building+scalable+web+applications;Designing+reliable+backend+systems;Exploring+cloud+and+distributed+systems;Turning+ideas+into+real-world+software" alt="Typing SVG" />
-</a>
-
-<p>
-  <a href="https://github.com/dishap0112">
-    <img src="https://img.shields.io/badge/GitHub-dishap0112-0B1F3A?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/disha-bharatbhai-patel-290b5a326/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:dishabp127@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-2563EB?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-![Profile Views](https://komarev.com/ghpvc/?username=dishap0112&label=PROFILE+VIEWS&color=1D4ED8&style=flat-square)
-
-</div>
-
----
-
-## `01` : Developer Overview
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│  DISHA PATEL                                  DEVELOPER       │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  Role       : Full Stack Developer                           │
-│  Focus      : Backend Engineering & Cloud Applications       │
-│  Interests  : APIs, Microservices, Healthcare Technology     │
-│  Approach   : Build • Learn • Improve • Repeat               │
-│  Status     : Open for Backend Engineer Opportunities        │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+::: {align="center"}
+```{=html}
+<!-- Navy-blue animated header -->
 ```
+`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2F,50:0B2D4D,100:123F66&height=220&section=header&text=DISHA%20PATEL&fontSize=48&fontColor=EAF4FF&animation=fadeIn&fontAlignY=36&desc=FULL%20STACK%20DEVELOPER%20%7C%20BACKEND%20%26%20CLOUD%20ENGINEER&descSize=15&descAlignY=58" width="100%" alt="Disha Patel — Full Stack Developer" />`{=html}
 
-I'm a Full Stack Developer passionate about building scalable web applications, backend services, and practical software solutions.
+`<a href="https://github.com/dishap0112">`{=html}
+`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=64B5F6&center=true&vCenter=true&width=700&lines=Building+reliable+and+scalable+applications;Turning+ideas+into+thoughtful+software;React+%7C+TypeScript+%7C+Python+%7C+Java+%7C+AWS" alt="Animated introduction" />`{=html}
+`</a>`{=html}
 
-I enjoy working across the application lifecycle — from designing APIs and database structures to developing user interfaces, testing functionality, and deploying applications.
+```{=html}
+<p>
+```
+`<a href="mailto:dishabp127@gmail.com">`{=html}`<img src="https://img.shields.io/badge/Email-0B2D4D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />`{=html}`</a>`{=html}
+`<a href="https://github.com/dishap0112">`{=html}`<img src="https://img.shields.io/badge/GitHub-0B2D4D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />`{=html}`</a>`{=html}
+`<a href="https://www.linkedin.com/">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-0B2D4D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />`{=html}`</a>`{=html}
+```{=html}
+</p>
+```
+:::
 
-- Building reliable backend APIs and services
-- Exploring microservices and distributed systems
-- Developing full-stack applications
-- Working with cloud technologies and automation
-- Learning continuously through hands-on projects
+------------------------------------------------------------------------
 
----
+## `> who_am_i`
 
-## `02` : Technology Stack
+Full Stack Developer with **4+ years of combined software development
+experience**, building responsive web applications, backend services,
+RESTful APIs, and cloud-based solutions. I enjoy solving engineering
+problems, improving application performance, and creating software that
+is useful, maintainable, and reliable.
 
-<div align="center">
+-   🔭 Currently contributing to web application features with
+    **React.js, TypeScript, and REST APIs**.
+-   ⚙️ Interested in full-stack engineering, backend architecture, API
+    development, and cloud technologies.
+-   🏥 Experienced in healthcare technology, including **EHR, HL7, and
+    FHIR integrations**.
+-   ☁️ Working with AWS, Docker, CI/CD, and relational and NoSQL
+    databases.
+-   📈 Focused on performance, clean code, automated testing, and
+    continuous learning.
+-   🤝 Open to connecting with developers, collaborating on meaningful
+    projects, and exploring new opportunities.
+
+------------------------------------------------------------------------
+
+## `> technology_stack`
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,sql,c&theme=dark" />
-
-### Backend Development
-
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi,flask&theme=dark" />
-
-### Frontend Development
-
-<img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" />
-
-### Databases, Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,aws,docker,nginx,githubactions,kafka&theme=dark" />
-
-### Testing & Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
-
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-0B1F3A?style=flat-square&logo=python&logoColor=60A5FA" />
-  <img src="https://img.shields.io/badge/Java-0B1F3A?style=flat-square&logo=openjdk&logoColor=60A5FA" />
-  <img src="https://img.shields.io/badge/JavaScript-0B1F3A?style=flat-square&logo=javascript&logoColor=FACC15" />
-  <img src="https://img.shields.io/badge/TypeScript-0B1F3A?style=flat-square&logo=typescript&logoColor=60A5FA" />
-  <img src="https://img.shields.io/badge/React-0B1F3A?style=flat-square&logo=react&logoColor=60A5FA" />
-  <img src="https://img.shields.io/badge/Spring_Boot-0B1F3A?style=flat-square&logo=springboot&logoColor=4ADE80" />
-  <img src="https://img.shields.io/badge/FastAPI-0B1F3A?style=flat-square&logo=fastapi&logoColor=4ADE80" />
-  <img src="https://img.shields.io/badge/AWS-0B1F3A?style=flat-square&logo=amazonwebservices&logoColor=FBBF24" />
-  <img src="https://img.shields.io/badge/Docker-0B1F3A?style=flat-square&logo=docker&logoColor=60A5FA" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0B1F3A?style=flat-square&logo=postgresql&logoColor=60A5FA" />
+```{=html}
+<p>
+```
+`<img src="https://img.shields.io/badge/Python-0B2D4D?style=for-the-badge&logo=python&logoColor=FFD43B" />`{=html}
+`<img src="https://img.shields.io/badge/Java-0B2D4D?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />`{=html}
+`<img src="https://img.shields.io/badge/JavaScript-0B2D4D?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />`{=html}
+`<img src="https://img.shields.io/badge/TypeScript-0B2D4D?style=for-the-badge&logo=typescript&logoColor=3178C6" />`{=html}
+`<img src="https://img.shields.io/badge/SQL-0B2D4D?style=for-the-badge&logo=postgresql&logoColor=9CCBFF" />`{=html}
+`<img src="https://img.shields.io/badge/PHP-0B2D4D?style=for-the-badge&logo=php&logoColor=777BB4" />`{=html}
+```{=html}
 </p>
+```
+### Frontend
 
----
+```{=html}
+<p>
+```
+`<img src="https://img.shields.io/badge/React-0B2D4D?style=for-the-badge&logo=react&logoColor=61DAFB" />`{=html}
+`<img src="https://img.shields.io/badge/React_Native-0B2D4D?style=for-the-badge&logo=react&logoColor=61DAFB" />`{=html}
+`<img src="https://img.shields.io/badge/HTML5-0B2D4D?style=for-the-badge&logo=html5&logoColor=E34F26" />`{=html}
+`<img src="https://img.shields.io/badge/CSS3-0B2D4D?style=for-the-badge&logo=css3&logoColor=1572B6" />`{=html}
+```{=html}
+</p>
+```
+### Backend, databases & cloud
 
-## `03` : Featured Projects
+```{=html}
+<p>
+```
+`<img src="https://img.shields.io/badge/Node.js-0B2D4D?style=for-the-badge&logo=nodedotjs&logoColor=339933" />`{=html}
+`<img src="https://img.shields.io/badge/Express.js-0B2D4D?style=for-the-badge&logo=express&logoColor=white" />`{=html}
+`<img src="https://img.shields.io/badge/FastAPI-0B2D4D?style=for-the-badge&logo=fastapi&logoColor=009688" />`{=html}
+`<img src="https://img.shields.io/badge/Spring_Boot-0B2D4D?style=for-the-badge&logo=springboot&logoColor=6DB33F" />`{=html}
+`<img src="https://img.shields.io/badge/PostgreSQL-0B2D4D?style=for-the-badge&logo=postgresql&logoColor=4169E1" />`{=html}
+`<img src="https://img.shields.io/badge/MySQL-0B2D4D?style=for-the-badge&logo=mysql&logoColor=4479A1" />`{=html}
+`<img src="https://img.shields.io/badge/AWS-0B2D4D?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />`{=html}
+`<img src="https://img.shields.io/badge/Docker-0B2D4D?style=for-the-badge&logo=docker&logoColor=2496ED" />`{=html}
+`<img src="https://img.shields.io/badge/Kafka-0B2D4D?style=for-the-badge&logo=apachekafka&logoColor=white" />`{=html}
+`<img src="https://img.shields.io/badge/GitHub_Actions-0B2D4D?style=for-the-badge&logo=githubactions&logoColor=2088FF" />`{=html}
+```{=html}
+</p>
+```
+### Testing & healthcare technology
 
-### 01. Academic Chatbot
-
-**LLM-Based Academic Advisor Chatbot**
-
-A chatbot project designed to support academic advising using a conversational interface and AI integration.
-
-- React-based frontend
-- Flask backend
-- Google Gemini integration
-
-[![View Repository](https://img.shields.io/badge/VIEW%20PROJECT-1D4ED8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dishap0112/Academic-Chatbot)
-
-### 02. Relivox App
-
-**Medical Voice Memo & Patient Record Application**
-
-A healthcare-focused application combining voice-based input, automated transcription, and structured clinical documentation.
-
-- Patient record workflows
-- Clinical documentation
-- Role-based access and healthcare data management
-
-[![View Repository](https://img.shields.io/badge/VIEW%20PROJECT-1D4ED8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dishap0112/Relivox-app-)
-
-### 03. Distributed URL Shortener
-
-**URL Shortening Service**
-
-A backend-oriented project that converts long URLs into short, shareable links.
-
-- Backend service development
-- URL processing
-- Focus on practical application architecture
-
-[![View Repository](https://img.shields.io/badge/VIEW%20PROJECT-1D4ED8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dishap0112/distributed_url_shorter)
-
-### 04. Parallel Radix Sort
-
-**Parallel Sorting with OpenMP**
-
-An implementation of parallel Radix Sort with performance analysis.
-
-- C programming
-- OpenMP parallelization
-- Algorithm performance exploration
-
-[![View Repository](https://img.shields.io/badge/VIEW%20PROJECT-1D4ED8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dishap0112/Parallel-Radix-Sort)
-
----
-
-## `04` : GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dishap0112&show_icons=true&hide_border=true&bg_color=071A33&title_color=60A5FA&icon_color=3B82F6&text_color=CBD5E1&ring_color=2563EB" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishap0112&layout=compact&hide_border=true&bg_color=071A33&title_color=60A5FA&text_color=CBD5E1" />
-
-<img width="95%" src="https://streak-stats.demolab.com?user=dishap0112&hide_border=true&background=071A33&ring=2563EB&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-
-</div>
-
----
-
-## `05` : Professional Highlights
-
-- Developed Java and Spring Boot microservices for healthcare applications.
-- Improved database response time by 28% through SQL and index optimization.
-- Increased API test coverage from 65% to 85% through automated regression testing.
-- Built responsive React and TypeScript interfaces integrated with backend APIs.
-
----
-
-## `06` : Current Interests
-
-```python
-class Developer:
-    def __init__(self):
-        self.focus = [
-            "Backend Engineering",
-            "Microservices Architecture",
-            "Full Stack Development",
-            "Cloud Applications",
-            "Database Optimization",
-            "API Design and Testing"
-        ]
-
-    def daily_routine(self):
-        return [
-            "Learn something new",
-            "Build something useful",
-            "Improve existing code",
-            "Keep growing"
-        ]
-
-me = Developer()
+```{=html}
+<p>
+```
+`<img src="https://img.shields.io/badge/Jest-0B2D4D?style=for-the-badge&logo=jest&logoColor=C21325" />`{=html}
+`<img src="https://img.shields.io/badge/ReadyAPI-0B2D4D?style=for-the-badge&logoColor=white" />`{=html}
+`<img src="https://img.shields.io/badge/HL7-0B2D4D?style=for-the-badge&logoColor=white" />`{=html}
+`<img src="https://img.shields.io/badge/FHIR-0B2D4D?style=for-the-badge&logoColor=white" />`{=html}
+```{=html}
+</p>
 ```
 
----
+------------------------------------------------------------------------
 
-## `07` : Let's Connect
+## `> featured_projects`
 
-<div align="center">
+### 01. Expense Split & Budget Tracker
 
-I'm always interested in connecting with developers, collaborating on meaningful projects, and exploring new opportunities.
+**React.js · Node.js · Express.js · PostgreSQL · Docker · AWS**
 
-<a href="https://github.com/dishap0112">
-  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-0B1F3A?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/disha-bharatbhai-patel-290b5a326/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:dishabp127@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say%20Hello-2563EB?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+A full-stack application designed to organize shared expenses and make
+group balances easier to track.
 
-</div>
+-   Built RESTful endpoints for managing users, expenses, and balance
+    calculations.
+-   Structured PostgreSQL data and queries to support expense tracking
+    and balance management.
+-   Containerized the application with Docker for a consistent
+    development environment.
+-   Deployed to AWS EC2 behind Nginx and configured a CI pipeline with
+    GitHub Actions.
 
-<div align="center">
+### 02. Relivox --- Medical Voice Memo & Patient Record System
 
-### 💙 Building with purpose. Improving with every commit.
+**PHP · MySQL · HTML · CSS**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:123B70,100:071A33&height=120&section=footer&animation=fadeIn" width="100%" />
+A clinical documentation platform for organizing patient records, voice
+recordings, transcription records, and structured medical reports.
 
-</div>
+-   Developed role-based workflows for Doctor and Admin users.
+-   Implemented CRUD operations for patients, recordings,
+    transcriptions, reports, and templates.
+-   Designed a normalized MySQL schema (1NF--3NF) with indexes, views,
+    stored procedures, functions, and triggers.
+-   Added audit logging and database controls to support responsible
+    handling of sensitive patient information.
+
+------------------------------------------------------------------------
+
+## `> engineering_impact`
+
+::: {align="center"}
+  -----------------------------------------------------------------------
+  Focus area                          Outcome
+  ----------------------------------- -----------------------------------
+  Database optimization               **28%** reduction in average
+                                      database response time
+
+  Portal performance                  **22%** faster response time during
+                                      load testing
+
+  API quality                         Test coverage increased from **65%
+                                      to 85%**
+
+  Frontend quality                    **6** UI defects resolved before a
+                                      product demonstration
+
+  Developer onboarding                Setup time reduced by **25%**
+  -----------------------------------------------------------------------
+:::
+
+------------------------------------------------------------------------
+
+## `> experience_snapshot`
+
+-   **Community Dreams Foundation** --- Full Stack Developer
+-   **UnitedHealth Group** --- Software Developer Intern
+-   **Optimoz** --- Full Stack Developer Intern
+-   **CitiusTech** --- Backend Developer
+
+------------------------------------------------------------------------
+
+## `> certifications_and_education`
+
+-   AWS Certified Cloud Practitioner
+-   freeCodeCamp --- Back End Development and APIs
+-   **M.S. in Computer Science** --- Rowan University
+-   **B.Tech. in Computer Engineering** --- Ganpat University
+
+------------------------------------------------------------------------
+
+## `> github_dashboard`
+
+::: {align="center"}
+`<a href="https://github.com/dishap0112">`{=html}
+`<img height="165" src="https://github-readme-stats.vercel.app/api?username=dishap0112&show_icons=true&hide_border=true&bg_color=071A2F&title_color=64B5F6&icon_color=42A5F5&text_color=EAF4FF&include_all_commits=true" alt="GitHub statistics" />`{=html}
+`</a>`{=html} `<a href="https://github.com/dishap0112">`{=html}
+`<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishap0112&layout=compact&hide_border=true&bg_color=071A2F&title_color=64B5F6&text_color=EAF4FF" alt="Most used languages" />`{=html}
+`</a>`{=html}
+
+`<br/>`{=html}
+
+`<a href="https://git.io/streak-stats">`{=html}
+`<img src="https://streak-stats.demolab.com?user=dishap0112&hide_border=true&background=071A2F&ring=42A5F5&fire=64B5F6&currStreakLabel=EAF4FF&sideLabels=EAF4FF&currStreakNum=EAF4FF&sideNums=EAF4FF&dates=9BB7D1" alt="GitHub contribution streak" />`{=html}
+`</a>`{=html}
+
+`<br/>`{=html}
+
+`<img src="https://github-readme-activity-graph.vercel.app/graph?username=dishap0112&bg_color=071A2F&color=EAF4FF&line=42A5F5&point=64B5F6&area=true&hide_border=true" width="95%" alt="GitHub contribution activity graph" />`{=html}
+:::
+
+------------------------------------------------------------------------
+
+## `> let's_connect`
+
+I'm always glad to connect with fellow developers, exchange ideas,
+collaborate on impactful projects, and explore opportunities to build
+something meaningful together.
+
+```{=html}
+<p align="center">
+```
+`<a href="mailto:dishabp127@gmail.com">`{=html}
+`<img src="https://img.shields.io/badge/LET'S%20TALK-0B2D4D?style=for-the-badge&logo=gmail&logoColor=white" alt="Let's talk" />`{=html}
+`</a>`{=html} `<a href="https://github.com/dishap0112">`{=html}
+`<img src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-0B2D4D?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub" />`{=html}
+`</a>`{=html}
+```{=html}
+</p>
+```
+::: {align="center"}
+`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:123F66,50:0B2D4D,100:071A2F&height=110&section=footer" width="100%" alt="" />`{=html}
+`<sub>`{=html}Designed with 💙 by Disha Patel`</sub>`{=html}
+:::
