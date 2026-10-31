@@ -31,7 +31,7 @@
 
 ---
 
-## `01` — Developer Overview
+## `01` : Developer Overview
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
@@ -59,7 +59,7 @@ I enjoy working across the application lifecycle — from designing APIs and dat
 
 ---
 
-## `02` — Technology Stack
+## `02` : Technology Stack
 
 <div align="center">
 
@@ -100,7 +100,7 @@ I enjoy working across the application lifecycle — from designing APIs and dat
 
 ---
 
-## `03` — Featured Projects
+## `03` : Featured Projects
 
 ### 01. Academic Chatbot
 
@@ -152,7 +152,7 @@ An implementation of parallel Radix Sort with performance analysis.
 
 ---
 
-## `04` — GitHub Analytics
+## `04` : GitHub Analytics
 
 <div align="center">
 
@@ -166,7 +166,7 @@ An implementation of parallel Radix Sort with performance analysis.
 
 ---
 
-## `05` — Professional Highlights
+## `05` : Professional Highlights
 
 - Developed Java and Spring Boot microservices for healthcare applications.
 - Improved database response time by 28% through SQL and index optimization.
@@ -175,7 +175,7 @@ An implementation of parallel Radix Sort with performance analysis.
 
 ---
 
-## `06` — Current Interests
+## `06` : Current Interests
 
 ```python
 class Developer:
@@ -202,7 +202,7 @@ me = Developer()
 
 ---
 
-## `07` — Let's Connect
+## `07` : Let's Connect
 
 <div align="center">
 
