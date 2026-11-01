@@ -1,9 +1,12 @@
 
-<div align="center">
+<!-- =============== INTRODUCTION =============== -->
 
-<table>
-<tr>
-<td width="65%" valign="middle">
+<div align="left">
+  <img align="right"
+       src="https://github.com/dishap0112.png"
+       width="280"
+       alt="Disha Patel"/>
+</div>
 
 # Disha Patel
 
@@ -11,9 +14,7 @@
 
 **Code · Create · Innovate**
 
-Passionate developer with experience in modern web technologies, scalable backend systems, and real-world software solutions.
-
-<br/>
+Passionate developer with experience in modern web technologies, scalable systems, and real-world software solutions.
 
 <a href="https://github.com/dishap0112">
   <img src="https://img.shields.io/badge/GitHub-0A192F?style=for-the-badge&logo=github&logoColor=white"/>
@@ -25,137 +26,73 @@ Passionate developer with experience in modern web technologies, scalable backen
   <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</td>
-<td width="35%" align="center" valign="middle">
-
-<img src="https://github.com/dishap0112.png" width="250" alt="Disha Patel GitHub Profile Picture"/>
-
-</td>
-</tr>
-</table>
-
-</div>
+<br clear="all"/>
 
 ---
+
+<!-- =============== PROJECTS =============== -->
 
 ## My Projects
 
 *Selected work across AI, healthcare technology, algorithms, and backend engineering.*
 
-<table>
-<tr>
-<td width="25%" valign="top">
-
-<div align="center">
-
-### 🤖
-
-**Academic Chatbot**
-
-</div>
+### 01 — Academic Chatbot
 
 An AI-powered academic assistant designed to help students access academic guidance through an interactive chatbot.
 
-**Tech Stack**
+**Technologies:** React · Flask · Google Gemini
 
-`React` `Flask` `Gemini`
-
-<div align="center">
-
-[View Project →](https://github.com/dishap0112/Academic-Chatbot)
-
-</div>
-
-</td>
-<td width="25%" valign="top">
-
-<div align="center">
-
-### 🏥
-
-**Relivox**
-
-</div>
-
-A medical voice memo and patient record management system supporting healthcare documentation workflows.
-
-**Tech Stack**
-
-`PHP` `MySQL` `HTML` `CSS`
-
-<div align="center">
-
-[View Project →](https://github.com/dishap0112/Relivox-app-)
-
-</div>
-
-</td>
-<td width="25%" valign="top">
-
-<div align="center">
-
-### ⚡
-
-**Parallel Radix Sort**
-
-</div>
-
-A parallel sorting implementation focused on computational efficiency and performance analysis.
-
-**Tech Stack**
-
-`C` `OpenMP` `Algorithms`
-
-<div align="center">
-
-[View Project →](https://github.com/dishap0112/Parallel-Radix-Sort)
-
-</div>
-
-</td>
-<td width="25%" valign="top">
-
-<div align="center">
-
-### 🔗
-
-**Distributed URL Shortener**
-
-</div>
-
-A backend project focused on converting long URLs into short, shareable links.
-
-**Tech Stack**
-
-`Backend` `APIs` `System Design`
-
-<div align="center">
-
-[View Project →](https://github.com/dishap0112/distributed_url_shorter)
-
-</div>
-
-</td>
-</tr>
-</table>
+[Explore Project →](https://github.com/dishap0112/Academic-Chatbot)
 
 ---
 
-## A Little About Me
+### 02 — Relivox
+
+A medical voice memo and patient record management system designed to support healthcare documentation workflows.
+
+**Technologies:** PHP · MySQL · HTML · CSS
+
+[Explore Project →](https://github.com/dishap0112/Relivox-app-)
+
+---
+
+### 03 — Parallel Radix Sort
+
+A parallel sorting implementation focused on computational efficiency and performance analysis.
+
+**Technologies:** C · OpenMP · Algorithms
+
+[Explore Project →](https://github.com/dishap0112/Parallel-Radix-Sort)
+
+---
+
+### 04 — Distributed URL Shortener
+
+A backend engineering project focused on transforming long URLs into short, shareable links.
+
+**Technologies:** Backend · APIs · System Design
+
+[Explore Project →](https://github.com/dishap0112/distributed_url_shorter)
+
+---
+
+<!-- =============== ABOUT =============== -->
+
+## About Me
 
 I'm a Full Stack Developer with 4+ years of combined software development experience.
 
-- Building responsive applications with React and TypeScript.
-- Developing backend services using Python, Java, Node.js, and Spring Boot.
-- Designing RESTful APIs and working with relational and NoSQL databases.
+- Developing responsive applications with React and TypeScript.
+- Building backend services using Python, Java, Node.js, and Spring Boot.
+- Designing RESTful APIs and working with SQL and NoSQL databases.
 - Exploring cloud technologies, distributed systems, and healthcare integrations.
 - Always learning and building something new.
 
 ---
 
-## Tech Stack
+<!-- =============== TECH STACK =============== -->
 
-<div align="center">
+## Tech Stack
 
 **Languages**
 
@@ -165,11 +102,27 @@ I'm a Full Stack Developer with 4+ years of combined software development experi
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,fastapi" />
 
-**Database & Tools**
+**Database & Cloud**
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,dynamodb,aws,docker,git,github" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,aws,docker,git,github" />
 
-</div>
+---
+
+<!-- =============== EXPERIENCE =============== -->
+
+## Experience
+
+**Full Stack Developer**  
+Community Dreams Foundation · Sep 2026 – Present
+
+**Software Developer Intern**  
+UnitedHealth Group · Jan 2026 – Aug 2026
+
+**Full Stack Developer Intern**  
+Optimoz · Jul 2025 – Dec 2025
+
+**Backend Developer**  
+CitiusTech · Jan 2021 – Nov 2023
 
 ---
 
@@ -179,8 +132,8 @@ I'm a Full Stack Developer with 4+ years of combined software development experi
 
 Open to collaboration, exciting projects, and new opportunities.
 
-<a href="https://github.com/dishap0112">
-  <img src="https://img.shields.io/badge/Explore_My_GitHub-0A192F?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="mailto:dishabp127@gmail.com">
+  <img src="https://img.shields.io/badge/Let's_Talk-0A192F?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
