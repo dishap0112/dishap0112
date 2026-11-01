@@ -1,11 +1,11 @@
 
 <div align="center">
 
-## 👋 A Little About Me
+## 👋 The Story Behind the Code
 
 </div>
 
-My journey in technology started with curiosity — wanting to understand how things work and discovering that I could build them myself.
+My journey in technology started with curiosity, wanting to understand how things work and discovering that I could build them myself.
 
 Today, My self **Disha Patel**, a Full Stack Developer who enjoys turning complex challenges into simple, meaningful solutions. Every project is an opportunity to learn something new, think differently, and create something better.
 
