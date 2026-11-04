@@ -1,47 +1,178 @@
  <div align="center">
 
-# <span style="color:#58A6FF;">✨ THE STORY BEHIND THE CODE</span>
+# 👋 Hi, I'm Disha Patel
 
-<p>
-  <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━-0D1B2A?style=flat&labelColor=0D1B2A" />
-</p>
+### 💻 Full Stack Developer | Software Developer
+
+Passionate about building modern applications, solving problems, and exploring new technologies.
+
+[![GitHub](https://img.shields.io/badge/GitHub-dishap0112-0B1F3A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dishap0112)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/disha-bharatbhai-patel-290b5a326/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dishabp127@gmail.com)
 
 </div>
 
-I didn't begin my journey into technology with a clear destination. It started with **curiosity** — a desire to explore, experiment, solve problems, and understand what happens behind the screen.
+---
 
-Over time, that curiosity grew into a passion for creating things that make a difference. From writing my first lines of code to developing full-stack applications and tackling real-world challenges, every experience has shaped the developer I am today.
+## 🚀 About Me
 
-I believe great development goes beyond writing code. It's about understanding problems, thinking creatively, embracing continuous learning, and transforming ideas into meaningful solutions.
+- 👩‍💻 Full Stack Developer passionate about software development.
+- 🌱 Continuously learning and exploring new technologies.
+- 💡 Interested in backend development, APIs, and scalable applications.
+- 🎯 Focused on writing clean, maintainable, and efficient code.
+- 🤝 Open to collaboration and new opportunities.
+
+---
+
+## 💻 My Technical Skills
+
+### 🟦 Programming Languages
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+</p>
+
+### 🟩 Frontend Development
+
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+### 🟪 Backend Development
+
+<p>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
+
+### 🟨 Databases
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>
+
+### 🟧 Cloud & DevOps
+
+<p>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</p>
+
+### 🟥 Development Tools
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+### 🩵 Other Technical Areas
+
+<p>
+<img src="https://img.shields.io/badge/Microservices-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Distributed_Systems-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenMP-008080?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Healthcare_Tech-16A085?style=for-the-badge"/>
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🤖 Academic Chatbot
+
+AI-powered academic chatbot built using React, Flask, and Google Gemini.
+
+- React-based frontend
+- Flask backend
+- Google Gemini integration
+
+[![View Project](https://img.shields.io/badge/VIEW_PROJECT-1D4ED8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dishap0112/Academic-Chatbot)
+
+### 🏥 Relivox App
+
+Healthcare-focused application for voice-based workflows and clinical documentation.
+
+[![View Project](https://img.shields.io/badge/VIEW_PROJECT-1D4ED8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dishap0112/Relivox-app-)
+
+### 🔗 Distributed URL Shortener
+
+A backend project focused on generating short URLs from long web addresses.
+
+[![View Project](https://img.shields.io/badge/VIEW_PROJECT-1D4ED8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dishap0112/distributed_url_shorter)
+
+### ⚡ Parallel Radix Sort
+
+Parallel sorting implementation using C and OpenMP.
+
+[![View Project](https://img.shields.io/badge/VIEW_PROJECT-1D4ED8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dishap0112/Parallel-Radix-Sort)
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-### <span style="color:#58A6FF;">✦ MY PHILOSOPHY ✦</span>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dishap0112&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1F3A&title_color=60A5FA&icon_color=3B82F6&text_color=FFFFFF"/>
 
-<table>
-<tr><td align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishap0112&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1F3A&title_color=60A5FA&text_color=FFFFFF"/>
 
-🔹 **BUILD WITH PURPOSE**
+<img width="90%" src="https://streak-stats.demolab.com?user=dishap0112&theme=tokyonight&hide_border=true&background=0B1F3A&ring=2563EB&fire=60A5FA&currStreakLabel=60A5FA"/>
 
-<sub>Turning creative ideas into reality.</sub>
+</div>
 
-</td></tr>
-<tr><td align="center">
+---
 
-🔹 **THINK BEYOND LIMITS**
+## 🎯 Current Focus
 
-<sub>Transforming challenges into opportunities.</sub>
+- Improving Full Stack Development skills
+- Learning advanced backend architecture
+- Building scalable REST APIs
+- Practicing Data Structures and Algorithms
+- Exploring cloud and DevOps technologies
 
-</td></tr>
-<tr><td align="center">
+---
 
-🔹 **CREATE WITH IMPACT**
+## 📫 Let's Connect
 
-<sub>Building technology that makes a difference.</sub>
+<div align="center">
 
-</td></tr>
-</table>
+<a href="https://github.com/dishap0112">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<p><b><span style="color:#58A6FF;">Every line of code brings a new possibility.</span></b></p>
+<a href="https://www.linkedin.com/in/disha-bharatbhai-patel-290b5a326/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:dishabp127@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💙 Thanks for visiting my profile!
+
+**Keep Learning. Keep Building. Keep Growing.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A33,50:123B70,100:2563EB&height=100&section=footer"/>
 
 </div>
