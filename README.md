@@ -123,20 +123,6 @@ Parallel sorting implementation using C and OpenMP.
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dishap0112&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1F3A&title_color=60A5FA&icon_color=3B82F6&text_color=FFFFFF"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishap0112&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1F3A&title_color=60A5FA&text_color=FFFFFF"/>
-
-<img width="90%" src="https://streak-stats.demolab.com?user=dishap0112&theme=tokyonight&hide_border=true&background=0B1F3A&ring=2563EB&fire=60A5FA&currStreakLabel=60A5FA"/>
-
-</div>
-
----
-
 ## 🎯 Current Focus
 
 - Improving Full Stack Development skills
